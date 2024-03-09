@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AGR-Assignment/static/css/main.5ec59c2e.css",
+    "main.js": "/AGR-Assignment/static/js/main.e610bebc.js",
+    "index.html": "/AGR-Assignment/index.html",
+    "main.5ec59c2e.css.map": "/AGR-Assignment/static/css/main.5ec59c2e.css.map",
+    "main.e610bebc.js.map": "/AGR-Assignment/static/js/main.e610bebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec59c2e.css",
+    "static/js/main.e610bebc.js"
+  ]
+}
